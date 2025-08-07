@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RentalApplication</string>
+    <string name="btn_borrow">Borrow</string>
+    <string name="txt_item_default">Keyboard</string>
+    <string name="rbt_red">Red</string>
+    <string name="rbt_pink">Pink</string>
+    <string name="rbt_blue">Blue</string>
+    <string name="btn_next_desc">Next Button</string>
+    <string name="btn_prev_desc">Previous Button</string>
+    <string name="txt_balance">Balance:</string>
+    <string name="btn_add_desc">Add Credit</string>
+
+
+    <string name="txt_checkout">Check Out</string>
+    <string name="txt_color">Color:</string>
+    <string name="btn_return_desc">Return Button</string>
+    <string name="txt_total">Total:</string>
+    <string name="txt_remain">Remaining Balance:</string>
+    <string name="btn_confirm">Confirm Order</string>
+    <string name="txt_duration">Duration:</string>
+</resources>

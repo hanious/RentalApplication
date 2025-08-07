@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thuê Nhạc Cụ</string>
+    <string name="btn_borrow">Thuê</string>
+    <string name="txt_item_default">Keyboard</string>
+    <string name="rbt_red">Đỏ</string>
+    <string name="rbt_pink">Hồng</string>
+    <string name="rbt_blue">Xanh</string>
+    <string name="btn_next_desc">Nút Kế Tiếp</string>
+    <string name="btn_prev_desc">Nút Liền Trước</string>
+    <string name="txt_balance">Số Dư:</string>
+    <string name="btn_add_desc">Thêm Tiền</string>
+    <string name="txt_checkout">Đơn Hàng</string>
+    <string name="txt_color">"Màu: "</string>
+    <string name="btn_return_desc">Nút Quay Lại</string>
+    <string name="txt_total">Tổng Tiền:</string>
+    <string name="txt_remain">Số Dư Còn Lại:</string>
+    <string name="btn_confirm">Xác Nhận Đơn</string>
+    <string name="txt_duration">Thời Hạn:</string>
+</resources>
